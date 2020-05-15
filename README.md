@@ -26,13 +26,23 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. Briefly compare and contrast `.forEach` & `.map` (2-3 sentences max)
 
+
+
 2. Explain the difference between a callback and a higher order function.
+
+
 
 3. What is closure?
 
+
+
 4. Describe the four rules of the 'this' keyword.
 
+
+
 5. Why do we need super() in an extended class?
+
+
 
 ### Task 1 - Project Set up
 

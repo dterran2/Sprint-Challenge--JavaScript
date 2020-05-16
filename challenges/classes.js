@@ -1,7 +1,7 @@
 
 
 class CuboidMaker {
-constructor(length, width, height) {
+constructor({length, width, height}) {
     this.length = length;
     this.width = width;
     this.height = height;
